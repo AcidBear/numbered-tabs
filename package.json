@@ -1,0 +1,9 @@
+{
+  "name": "NumberedTabs",
+  "fullName": "NumberedTabs",
+  "id": "jid1-FA0TUpd6LPmQfA",
+  "description": "Displays the tab's number to allow quick tab switching via Ctrl + [1-8] or Cmd + [1-8]",
+  "author": "Jason Yeo",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}

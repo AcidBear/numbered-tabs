@@ -1,11 +1,11 @@
 {
-  "name": "numberedtabs",
-  "fullName": "NumberedTabs",
+  "name": "numberedtabs-palemoon",
+  "fullName": "NumberedTabs for Pale Moon",
   "id": "jid1-FA0TUpd6LPmQfA@jetpack",
   "description": "Displays the tab's number to allow quick tab switching via Ctrl + [1-8] or Cmd + [1-8]",
   "author": "Jason Yeo",
   "license": "MPL 2.0",
-  "version": "0.1.0",
+  "version": "0.1",
   "main": "lib/main.js",
   "engines": {
     "firefox": ">=38.0a1",
